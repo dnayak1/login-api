@@ -1,0 +1,17 @@
+{
+  "name": "zerion-dhiraj-nayak",
+  "version": "1.0.0",
+  "description": "api for user login and signup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dhiraj nayak",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "jsonwebtoken": "^7.4.3",
+    "mysql": "^2.14.1"
+  }
+}
